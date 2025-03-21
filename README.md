@@ -1,5 +1,8 @@
-Link for the hosted WebApp: https://reactone-j6z5ex2nv-siddharth-s-projects-8f257e10.vercel.app/
 
+![Screenshot (1)](https://github.com/user-attachments/assets/b0621222-5c1d-41e3-9aa4-a1545ec8e956)
+
+Link for the hosted WebApp: https://reactone-j6z5ex2nv-siddharth-s-projects-8f257e10.vercel.app/
+🎥 Special thanks to 6 Pack Programmer(https://lnkd.in/gt6vqFHw) for the insightful tutorial that guided me through building this project! 🙌
 
 # Getting Started with Create React App
 
